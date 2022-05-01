@@ -11,7 +11,7 @@
 ![Screenshot (55)](https://user-images.githubusercontent.com/80576654/166140222-d9ef30c2-5c21-4ebf-bb24-b47ac186f5f5.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/80576654/166140245-286636e0-5664-4078-8471-70d8f82c2b87.png)
 
-* After Sumbit the for it will redirect in to employee list
+* After Sumbit the form, it will redirect in to employee list
  
 ![Screenshot (57)](https://user-images.githubusercontent.com/80576654/166140250-fc3a95eb-df11-4337-ba9e-00544cca7a26.png)
 ##
@@ -29,13 +29,14 @@
 ![Screenshot (62)](https://user-images.githubusercontent.com/80576654/166140354-232e3eb5-da78-44bc-87c7-3e4f02058488.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/80576654/166140364-9f3e1526-31ae-43f4-987c-037d15a6a508.png)
 
-* After Sumbit the for it will redirect in to employee list
+* After Sumbit the form, it will redirect in to employee list
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/80576654/166140366-8ad13173-7cc1-4338-9876-74540c67c64b.png)
 ##
 
 ### 5.Delete Employee
 ![Screenshot (65)](https://user-images.githubusercontent.com/80576654/166140381-fbbd94a6-1ad9-4eae-a06f-fc3223f38dbc.png)
+* After delete employee, it will redirect in to employee list
 ![Screenshot (66)](https://user-images.githubusercontent.com/80576654/166140393-8057f65f-a701-43fb-8a7c-a7e26a47c628.png)
 ##
 ### 6.Search Employee
