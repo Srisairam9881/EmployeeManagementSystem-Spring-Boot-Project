@@ -1,0 +1,39 @@
+.data
+{
+text-align: center;
+padding: 30px;
+}
+.text
+{
+text-align: center;
+color: darkblue;
+}
+.style
+{
+padding-left: 540px;
+}
+.card-img-top
+{
+width: 190px;
+padding-left: 90px;
+}
+.card-img1-top
+{
+width: 280px;
+padding-left: 250px;
+cursor: pointer;
+}
+
+.del
+{
+text-align: center;
+padding: 20px;
+cursor: pointer;
+}
+.btn-danger
+{
+width: 120px;
+height: 50px;
+border-radius: 50px;
+}
+

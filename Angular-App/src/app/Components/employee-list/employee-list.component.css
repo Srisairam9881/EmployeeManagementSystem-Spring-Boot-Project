@@ -1,0 +1,29 @@
+.text
+{
+text-align: center;
+padding-top: 20px;
+color: indigo;
+}
+.container
+{
+padding: 20px;
+}
+.image
+{
+width: 45px;
+}
+.form-control
+{
+width: 300px;
+padding: 12px;
+
+}
+.btn
+{
+width: 140px;
+margin-left: 20px;
+}
+.details
+{
+cursor: pointer;
+}

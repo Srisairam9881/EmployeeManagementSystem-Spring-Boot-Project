@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.Heading
+{
+margin: 37px;
+text-align: center;
+color: brown;
+}
+.footer
+{
+text-align: center;
+color: red;
+font-size: large;
+font-family: sans-serif;
+font-weight: 100px;
+}
