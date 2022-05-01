@@ -19,7 +19,7 @@
 ### 3.View Details
 ![Screenshot (58)](https://user-images.githubusercontent.com/80576654/166140261-b9170206-82fd-4848-96ac-c0104e58e712.png)
 * Click on icon in action column it show employee details page
-* ![Screenshot (59)](https://user-images.githubusercontent.com/80576654/166140281-c5c0a58a-2be2-4131-878e-2c4e584d8f22.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/80576654/166140281-c5c0a58a-2be2-4131-878e-2c4e584d8f22.png)
 ##
 
 ### 4.Edit Employee
