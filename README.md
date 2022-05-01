@@ -12,7 +12,7 @@
 ![Screenshot (56)](https://user-images.githubusercontent.com/80576654/166140245-286636e0-5664-4078-8471-70d8f82c2b87.png)
 
 * After Sumbit the for it will redirect in to employee list
-* 
+ 
 ![Screenshot (57)](https://user-images.githubusercontent.com/80576654/166140250-fc3a95eb-df11-4337-ba9e-00544cca7a26.png)
 ##
 
