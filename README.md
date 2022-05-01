@@ -38,6 +38,9 @@
 ![Screenshot (65)](https://user-images.githubusercontent.com/80576654/166140381-fbbd94a6-1ad9-4eae-a06f-fc3223f38dbc.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/80576654/166140393-8057f65f-a701-43fb-8a7c-a7e26a47c628.png)
 ##
-
+### 6.Search Employee
+![Screenshot (67)](https://user-images.githubusercontent.com/80576654/166140645-8da85f93-546f-4925-9bf1-554b8a52f15a.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/80576654/166140652-fce0150a-9722-4769-8d67-05ed2099c002.png)
+##
 
 
